@@ -1,0 +1,37 @@
+.colorUno{
+background-color: #ffa0ff;
+}
+
+.colorodos{
+background-color: #ffe8ff;
+}
+
+.colorTres{
+background-color: #a823e3;
+}
+
+.fuente {
+  font-family: "crossorigin", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fondo{
+
+    background-image: url("../img/fondo.webp");
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
+.btn.btn-primary{
+  background-color: #a823e3;
+  border-color: #ffa0ff;
+  color: white;
+}
+.btn.btn-primary:hover{
+  background-color: #a823e3;
+  border-color: #ffa0ff;
+  color: white;
+}
